@@ -1,0 +1,16 @@
+const nome = "Ana"
+let segundo_Nome = "Carolina"
+var nome_completo = (nome+segundo_Nome)
+//Ana Carolina
+
+
+const Nome = "Ana tem"
+let idade = 17
+var nome_completo = (Nome+idade)
+//Ana tem 17
+
+
+const numero1 <= 3
+let numero2 = 2
+var resposta = (numero1-numero2)
+//1
